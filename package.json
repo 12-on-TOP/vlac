@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "parse-midi.js",
   "scripts": {
-    "start": "parse-midi.js"
+    "start": "node parse-midi.js"
   },
   "dependencies": {
     "express": "^4.18.2",
