@@ -234,7 +234,7 @@ function setup() {
   });
 
   sampler = new Tone.Sampler({
-    urls: { A4: "trumpet01.ogg" },
+    urls: { C5: "piano01.ogg" },
     baseUrl: "./",
   }).toDestination();
 
